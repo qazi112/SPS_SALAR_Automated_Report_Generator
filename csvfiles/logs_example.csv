@@ -1,0 +1,55 @@
+Server,Date,Notes:,Status
+vantage.cloud,8/25/2020 21:04:07,Expanded C: root drive by 15GB,Successful
+vantage.cloud,8/25/2020 21:04:07,2020-06 Security Update for Adobe Flash Player for Windows Server 2012,Successful
+vantage.cloud,8/25/2020 21:04:07,2020-08 Security and Quality Rollup for .Net Framework,Successful
+vantage.cloud,8/25/2020 21:04:07,2020-08 Security Monthly Quality Rollup for Windows Server 2012 R2,Successful
+vantage.cloud,8/25/2020 21:04:07,2020-08 Security Update for Windows Server 2012 R2,Successful
+vantage.cloud,8/25/2020 22:02:05,Update Cylance to version 2.1.1564.39,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,2020-06 Security Update for Adobe Flash Player for Windows Server 2012 R2...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,"2020-08 Security and Quality Rollup for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1,...",Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,2020-08 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,2020-08 Security Update for Windows Server 2012 R2 for x64-based Systems...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Wind...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Windows Server 2012 R2 (KB3076949),Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Windows Server 2012 R2 (KB3109560),Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Windows Server 2012 R2 (KB3115858),Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Windows Server 2012 R2 (KB3138910),Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Security Update for Windows Server 2012 R2 (KB3138962),Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Windows Malicious Software Removal Tool x64 - v5.82 (KB890830),Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,2020-07 Servicing Stack Update for Windows Server 2012 R2 for x64-based S...,Successful
+TopConFDA3.cloud,8/25/2020 22:25:49,Update Cylance to version 2.1.1564.39,Successful
+triton.cloud,8/26/2020 16:56:10,2020-06 Security Update for Adobe Flash Player for Windows Server 2012 R2 for x64-based Systems (KBAS1600),Successful
+triton.cloud,8/26/2020 16:56:10,"2020-08 Security and Quality Rollup for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4570508)",Successful
+triton.cloud,8/26/2020 16:56:10,2020-08 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4571703),Successful
+triton.cloud,8/26/2020 16:56:10,2020-08 Security Update for Windows Server 2012 R2 for x64-based Systems (KB4578013),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3122651),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3127222),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2894852),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2966826),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2966828),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2968296),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2972103),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2972213),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2973114),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2978122),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3023219),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3037576),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3072307),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3074545),Successful
+triton.cloud,8/26/2020 16:56:10,Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3097992),Successful
+triton.cloud,8/26/2020 16:56:10,Windows Malicious Software Removal Tool x64 - v5.82 (KB890830),Successful
+triton.cloud,8/26/2020 16:56:10,Verify Cylance updated to version 2.1.1564.39,Successful

@@ -1,0 +1,9 @@
+@page {
+  size: Letter; /* Change from the default size of A4 */
+  margin: 2.5cm; /* Set margin on each page */
+}
+
+table.table-bordered{
+  border:2px solid black;
+  margin-top:20px;
+}
