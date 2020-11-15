@@ -1,0 +1,59 @@
+For Mr Salar latest requirements i.e
+
+For the summarizing the notes in the OS Version / Patches Installed section 
+- Lower case the following string
+
+    ○ Security Update for Adobe Flash Player
+    ○ Security Update for Microsoft .NET Framework 3.5 on Windows Server 2012 R2
+    ○ Security Update for Windows Server 2012 R2
+    ○ Windows Malicious Software Removal Tool
+    ○ Cylance updated
+    ○ Security and Quality Rollup for .NET Framework
+    ○ Servicing Stack Update for Windows Server 2012 R2
+
+- Lower the notes column
+- Check if each of the lowered strings are in the notes column
+
+    ○ if the string exists place as bullet point in the summary section (non lowered version)
+
+
+============================================================
+Descriptive algo...
+	-----------------------------------------------------------------------
+	(need to revisit this approach) ~ As pointed out by Mr Salar in meeting
+	-----------------------------------------------------------------------
+	-----------------------------------------------------------------------
+	For the above mentioned issue, i have added a regex for exact searching
+	regex("^.*{bullet.lower()}.*")
+	-----------------------------------------------------------------------
+	
+
+What I can do is ,
+make a list of above all mentioned bullets.
+i.e 
+
+matching = ["Security Update for Adobe Flash Player",
+            "Security Update for Microsoft .NET Framework 3.5 on Windows Server 2012 R2",
+            "Security Update for Windows Server 2012 R2",
+            "Windows Malicious Software Removal Tool",
+            "Cylance updated",
+            "Security and Quality Rollup for .NET Framework",
+            "Servicing Stack Update for Windows Server 2012 R2"
+           ]
+
+Then lowercase them.
+
+matching_lowered = [x.lower() for x in matching]
+
+MAIN LOOP FOR SERVERS:
+	Make a loop , over the dataframe for checking each list-item(matching_list) in notes.
+
+	
+	res = df.loc[df["Server"] == firstServer].loc[df["Notes:"].str.contains(f"^.*{matching_lowered[1]}.*",na=False, case=False)==True]
+	# res => is a dataframe but filtered according to our need
+	#if this res is not empty it means we have found out stuff
+	if not res.empty:
+		os_patch_list.append(matching_lowered[0])
+		summary_list.append(list(res["Notes:"]))
+
+			
